@@ -134,6 +134,7 @@ _More community skills coming soon! Submit a PR to add your skill._
 ### Tools
 
 - **[yusufkaraaslan/Skill_Seekers](https://github.com/yusufkaraaslan/Skill_Seekers)** - Convert documentation websites into Claude Skills
+- **[Skill Scanner](https://skillscanner.web.app/)** - Check a skill for hidden instructions, key theft and harmful code before installing
 
 ## ✏️ Creating Your First Skill
 
